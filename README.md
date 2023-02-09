@@ -10,6 +10,5 @@ The dataset used for this project is provided by [Google BigQuery](https://conso
 2. NumPy
 3. Seaborn
 4. Matplotlib
-5. Feature-Engine
-6. Scikit-Learn
-7. Scipy
+5. Scikit-Learn
+
