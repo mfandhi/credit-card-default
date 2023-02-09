@@ -1,4 +1,4 @@
-# Credit-Card-Default-Prediction
+# Credit Card Default Prediction
 ---
 
 The aim of this project is to predict whether the credit card customer is default or not, based on the customer's behavior on the monthly payment and other data provided.
